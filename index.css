@@ -387,6 +387,31 @@
   color: rgb(109, 107, 107);
   font-family: Arial, Helvetica, sans-serif;
 }
+#hzza{
+  display: flex;
+  justify-content: space-evenly;
+}
+#hzza img{
+  width: 5%;
+  height: 50%;
+}
+#hzza h3{
+  font-size: 1.3rem;
+  margin-left: -8%;
+}
+#hznz{
+  margin-left: -2%;
+  display: flex;
+  justify-content: space-evenly;
+}
+#hznz img{
+  width: 5%;
+  height: 50%;
+}
+#hznz h3{
+  font-size: 1.3rem;
+  margin-left: -10%;
+}
 
  @media screen and (max-width:768px)  {
   .card-title{
@@ -425,6 +450,9 @@
   .oop button{
     width: 22%;
   }
+  #mbcv{
+    width: 15%;
+  }
   #rge{
     font-size: 10px ;
   }
@@ -450,9 +478,9 @@
     width: 100%;
   }
   #kmh{
-    margin-top: 160%;
+    margin-top: 175%;
     width: 100%;
-    margin-left: -5%;
+    margin-left: 1%;
   }
   #gbbn{
     overflow-x: hidden;
@@ -474,23 +502,6 @@
   #klj a{
     margin-left: -5%;
   }
-  #hzza{
-    font-size: 8px;
-    margin-left: 5%;
-    margin-top: 10%;
-  }
-  #hzza img{
-    margin-right: 5%;
-    margin-top: 3%;
-    
-  }
-  #hznz{
-    font-size: 8px;
-    margin-left: 4%;
-  }
-  #hznz img{
-    margin-right: 5%;
-  }
   .ppp{
     height: 500px;
   }
@@ -509,7 +520,7 @@
     margin-left: 1%;
   }
   .oop img{
-    height: 500px;
+    height: 400px;
   }
   #gbnn{
     margin-top: -70%;
@@ -657,6 +668,30 @@
   #gat{
     margin-top: -11%;
     margin-left: 37%;
+  }
+  #hzza{
+    display: block;
+    margin-left: 10%;
+    margin-top: 10%;
+  }
+  #hzza img{
+    width: 13%;
+    margin-bottom: -30%;
+  }
+  #hzza h3{
+    margin-left: 20%;
+  }
+  #hznz{
+    display: block;
+    margin-left: 9%;
+    margin-top: -25%;
+  }
+  #hznz img{
+    width: 13%;
+    margin-bottom: -30%;
+  }
+  #hznz h3{
+    margin-left: 20%;
   }
 }
 
