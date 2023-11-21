@@ -216,7 +216,7 @@
   width: 100%;
   height: 600px;
 }
-#prjk{
+#prjk,#prjka,#prjkb,#prjkc,#prjkd{
   color: white;
   margin-top: -10%;
   margin-left: 5%;
@@ -411,6 +411,115 @@
 #hznz h3{
   font-size: 1.3rem;
   margin-left: -10%;
+}
+#conttt{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100px;
+  font-weight: bolder;
+}
+#mmcz img{
+  width: 100%;
+  height: 600px;
+}
+#mmcz p{
+  font-size: 90px;
+  margin-left: 2%;
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  margin-top: -15%;
+}
+#kolp p{
+  text-align: center;
+  font-weight: bolder;
+  font-size: 40px;
+  margin-top: 5%;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline orange;
+  text-underline-offset: 35%;
+}
+#kolp h1{
+  font-size: 25px;
+  width: 45%;
+  margin-left: 3%;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 5%;
+}
+#daada{
+  display: inline-flex;
+  margin-top: 5%;
+}
+#daada img{
+  width: 45%;
+  height: 500px;
+  margin-left: 5%;
+}
+#womyp,#womyq,#womyw,#womye{
+  width: 25%;
+  text-align: center;
+  background: rgb(0, 174, 255);
+  padding-top: 2%;
+  height: 150px;
+  margin-top: 10%;
+}
+#womyp p,#womyw p,#womye p{
+  color: white;
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 5%;
+}
+#womyq{
+  background: orange;
+  margin-top: -9.8%;
+  margin-left: 25%;
+}
+#womyw{
+  background: grey;
+  margin-top: -9.75%;
+  margin-left: 50%;
+}
+#womye{
+  background: black;
+  margin-top: -9.8%;
+  margin-left: 75%;
+}
+#womyq p{
+  color: white;
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 5%;
+}
+#archi{
+  margin-top: 10%;
+  text-align: center;
+  background: rgb(227, 226, 226);
+  height: 500px;
+  padding-top: 15%;
+}
+#archi p{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+}
+#shola{
+  width: 80%;
+  margin-left: 140px;
+}
+#redmi,#redmii{
+  display: inline-flex;
+}
+#redmi img{
+  width: 20%;
+  margin-left: 10%;
+}#redmii img{
+  width: 20%;
+  margin-left: 4%;
+}
+#prjka ,#prjkb p,#prjkc p,#prjkd p{
+  color: black;
+  font-size: 40px;
+  width: 50%;
 }
 
  @media screen and (max-width:768px)  {
@@ -693,6 +802,92 @@
   #hznz h3{
     margin-left: 20%;
   }
+  #vv img{
+    height: 400px;
+  }
+  #vn p{
+    margin-top: -50%;
+  }
+  #conttt{
+    margin-top: -60%;
+    font-size: 40px;
+    margin-bottom: -20%;
+  }
+  #mmcz img{
+    height: 450px;
+  }
+  #mmcz p{
+    margin-top: -40%;
+    font-size: 45px;
+  }
+  #kolp p{
+    font-size: 25px;
+  }
+  #daada{
+    display: block;
+    margin-top: 15%;
+  }
+  #daada img{
+    width: 90%;
+    height: 400px;
+  }
+  #daada h1{
+    width: 90%;
+    margin-left: 7%;
+    font-size: 15px;
+  }
+  #womyp,#womyq,#womyw,#womye{
+    font-size: 10px;
+    padding-top: 10%;
+  }
+  #womyq,#womyw,#womye{
+    margin-top: -38.3%;
+  }
+  #archi{
+    height: 300px;
+    padding-top: 20%;
+  }
+  #archi p{
+    font-size: 15px;
+  }
+  #prjkd p{
+    margin-top: -50%;
+    color: white;
+    font-size: 20px;
+    width: 100%;
+  }
+  #redmii{
+    display: block;
+    margin-top: 30%;
+  }
+  #redmii img{
+    display: block;
+    margin-top: 10%;
+    width: 50%;
+    margin-left: 25%;
+  }
+  #prjkc p,#prjka p,#prjkb p{
+    margin-top: -50%;
+    color: white;
+    font-size: 20px;
+    width: 100%;
+  }
+  #prjka{
+    width: 100%;
+    margin-left: 2%;
+  }
+  #redmi{
+    display: block;
+    margin-top: 30%;
+  }
+  #redmi img{
+    display: block;
+    margin-top: 15%;
+    width: 50%;
+    margin-left: 25%;
+  }
+
+
 }
 
   /* #vvv{   FOR THE CARD 
